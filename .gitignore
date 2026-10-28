@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+rfid_shop.db
+.venv/
